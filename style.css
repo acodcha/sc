@@ -95,10 +95,10 @@ button {
   display: block;
   font-size: 0.8rem;
   line-height: 1.12rem;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 1rem;
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
@@ -143,8 +143,8 @@ h1 {
   color: #cccccc;
   font-size: 2.8rem;
   font-weight: normal;
-  line-height: 3.92rem;
-  margin-bottom: 0;
+  line-height: 4rem;
+  margin-bottom: 1.4rem;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
@@ -160,10 +160,42 @@ h2 {
   font-size: 2rem;
   font-weight: normal;
   line-height: 2.8rem;
-  margin-bottom: 0;
+  margin-bottom: 1.4rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 1.4rem;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
+}
+
+h3 {
+  color: #cccccc;
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 2rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
+}
+
+h4 {
+  color: #cccccc;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.4rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
@@ -212,10 +244,10 @@ p.contents {
   font-size: 1.4rem;
   font-weight: normal;
   line-height: 2rem;
-  margin-bottom: 0;
+  margin-bottom: 1.4rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 1.4rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
@@ -237,19 +269,35 @@ p.license {
   padding-top: 0;
 }
 
+p.subcontents {
+  color: #cccccc;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.4rem;
+  margin-bottom: 1.4rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.4rem;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
+}
+
 p.subtitle {
   color: #cccccc;
   font-size: 1.4rem;
   font-weight: normal;
-  line-height: 1.96rem;
-  margin-bottom: 0;
+  line-height: 2rem;
+  margin-bottom: 1rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 1rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
-  padding-top: 0.5rem;
+  padding-top: 0;
   text-align: center;
 }
 
@@ -262,7 +310,7 @@ table {
   margin-bottom: 1rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 1rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
@@ -283,9 +331,9 @@ td {
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: disc;
 }
 
 ul ul {
-  list-style-type: disc;
+  list-style-type: square;
 }

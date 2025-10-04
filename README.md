@@ -1,6 +1,6 @@
 # acodcha's StarCraft Maps
 
-Custom-made maps for the _StarCraft: Brood War_ and _StarCraft: Remastered_ video games.
+Custom-made maps for _StarCraft: Brood War_ and _StarCraft: Remastered_.
 
 Hosted at: <https://acodcha.github.io/sc>
 

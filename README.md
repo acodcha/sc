@@ -4,19 +4,11 @@ Custom-made maps for the _StarCraft: Brood War_ and _StarCraft: Remastered_ vide
 
 Hosted at: <https://acodcha.github.io/sc>
 
-- [Requirements](#requirements)
-- [Configuration](#configuration)
-- [License](#license)
-
-## Requirements
-
-This project requires the following software to be installed on your system:
-
-- **Git:** This project uses the Git source control system and is stored as a Git repository and therefore requires the Git source control system to be installed on your system. On Ubuntu, install the Git source control system with `sudo apt install git` or visit <https://git-scm.com> for alternate means of installation.
-
 ## Configuration
 
-Clone this project's repository with:
+Cloning this repository requires the Git source control system to be installed on your system. On Ubuntu, install the Git source control system with `sudo apt install git` or visit <https://git-scm.com> for alternate means of installation.
+
+Clone this repository with:
 
 ```bash
 git clone git@github.com:acodcha/sc.git sc
